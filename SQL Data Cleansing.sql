@@ -1,3 +1,9 @@
+/*
+Data Cleansing Movie Data 
+*/
+  
+
+
 select * from dbo.movies1
 
 -- Updating Column names of table to make them consistent

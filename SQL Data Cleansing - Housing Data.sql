@@ -1,4 +1,4 @@
-/* Data Cleansing - Nashville Housing Data
+/* Data Cleansing - Housing Data
 */
 
 select * 
